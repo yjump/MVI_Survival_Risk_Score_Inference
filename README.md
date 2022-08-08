@@ -1,4 +1,4 @@
-# [Hepatology International 2022] A deep learning model with incorporation of microvascular invasion area as a factor in predicting prognosis of hepatocellular carcinoma after R0 hepatectomy
+# [Hepatology International] A deep learning model with incorporation of microvascular invasion area as a factor in predicting prognosis of hepatocellular carcinoma after R0 hepatectomy
 
 ## Introduction
 This is the inference code and the saved model for "A deep learning model with incorporation of microvascular invasion area as a factor in predicting prognosis of hepatocellular carcinoma after R0 hepatectomy" published in Hepatology International.
@@ -7,13 +7,13 @@ The model takes in four input features and predict a MVI survival risk score for
 
 ## Dependencies:
 
-Python 3.6+
+Python 3.6+;
 
-pandas
+pandas;
 
-torch
+torch;
 
-numpy
+numpy;
 
 ## Usage:
 
@@ -25,13 +25,13 @@ numpy
 python3 mvi_risk_predict.py
 ```
 
-3. Obtain the prediction file "./Output_Patient_Info_with_Risk_Score"
+3. Obtain the prediction file "./Output_Patient_Info_with_Risk_Score".
 
 ## Disclaimer:
 
 This tool is for research purpose and not approved for clinical use.
 
-This is not an official Tencent product
+This is not an official Tencent product.
 
 ## Citation:
 

@@ -19,13 +19,13 @@ numpy
 
 1. Prepare your data following the demo input file "./Input_Patient_Info.cvs".
 
-2. Pay attention to the file path and run:
+2. Pay attention to the input file path and run:
 
 ```
 python3 mvi_risk_predict.py
 ```
 
-3. Obtain prediction file "./Output_Patient_Info_with_Risk_Score"
+3. Obtain the prediction file "./Output_Patient_Info_with_Risk_Score"
 
 ## Disclaimer:
 
